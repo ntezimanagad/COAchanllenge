@@ -25,6 +25,4 @@ Transform a string based on specific rules: reversing, replacing with ASCII code
 2. Open `index.html` in a web browser to view the interactive photo gallery.
 3. Run the JavaScript files in the `Challenges` folder to test the coding challenge solutions.
 
-## License
 
-This project is licensed under the MIT License.
